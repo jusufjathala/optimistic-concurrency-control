@@ -1,0 +1,6 @@
+t1 r a
+t2 r b
+t1 w a
+t2 w b
+t1 v
+t2 v
