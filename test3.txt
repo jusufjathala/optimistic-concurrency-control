@@ -5,5 +5,5 @@ t2 r a
 t2 w a
 t1 r a
 t1 v
-t1 r b
+t1 w b
 t2 v
